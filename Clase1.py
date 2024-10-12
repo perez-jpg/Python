@@ -42,4 +42,4 @@
 # if Num % 2 == 0:
 #     print("El Numero es par")
 # else:
-#     print("El numero es impar")
+print("El numero es impar") 
