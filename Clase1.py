@@ -37,9 +37,9 @@
 # Final = Resultado (Edad)
 # print (Final)
 
-Num = int(input("Digita tu numero"))
+# Num = int(input("Digita tu numero"))
 
-if Num % 2 == 0:
-    print("El Numero es par")
-else:
-    print("El numero es impar")
+# if Num % 2 == 0:
+#     print("El Numero es par")
+# else:
+#     print("El numero es impar")
