@@ -77,7 +77,7 @@
 
 """Nivel avanzado"""
 
-#2
+#1
 # peso = int(input("Digita el peso del paquete"))
 # destino = input("si envio es internaciona? (si/no)")
 # valor=0
